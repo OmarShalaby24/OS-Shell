@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605995483 source:/home/omar/Desktop/Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<signal.h>
+	<sys/wait.h>
+	<sys/types.h>
+
